@@ -1,4 +1,4 @@
-package com.example.rxjavasample.chapter06;
+package com.example.rxjavasample.chapter04;
 
 import com.example.rxjavasample.utlis.DateUtil;
 import com.example.rxjavasample.utlis.LogType;
